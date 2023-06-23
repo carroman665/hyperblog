@@ -1,7 +1,7 @@
 body{
-    color: #333;
+    color: red;
     text-align: left;
-    font-family: 'Arial';
+    font-family: 'Courier New';
 }
 
 #cabecera
@@ -38,5 +38,4 @@ body{
 #post
 {
     padding: 1em;
-
 }
